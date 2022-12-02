@@ -1,5 +1,5 @@
 # This is a Markdown Cheatsheet
-## Check the README code for details
+## Download or Check the README source code for details
 ***
 <!-- Below are how to do basic stuffs on markdown, so stuffs have mutiple ways of doing them -->
 
